@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Time Table</Table>
+    </title>
+</head>
+
+<body>
+    <table border="2" align="center">
+        <tr>
+            <td align="center" rowspan="3"><b>Day</b></td>
+            <td align="center" colspan="5"><b>Seminar</b></td>
+
+        </tr>
+        <tr>
+
+            <td align="center" colspan="2"><b>Schedule</b></td>
+            <td  align="center" colspan="2" rowspan="2"><b>Topic</b></td>
+        </tr>
+        <tr>
+            <td align="center" ><b>Begin</b></td>
+            <td align="center" ><b>End</b></td>
+        </tr>
+        <tr>
+            <td align="center" rowspan="2">Monday</td>
+            <td align="center" rowspan="2">8:00 am</td>
+            <td align="center" rowspan="2">5:00 pm</td>
+            <td  colspan="2">Introduction to XML</td>
+        </tr>
+        <tr>
+            <td align="center" colspan="2">Validity Dtd and Relad NG</td>
+        </tr>
+        <tr>
+            <td align="center" rowspan="3">Tuesday</td>
+            <td align="center" >8:00 am</td>
+            <td align="center" >11:00 am</td>
+            <td  rowspan="2" colspan="2">Xpath</td>
+        </tr>
+        <tr>
+            <td align="center" >11:00 am</td>
+            <td align="center" >2:00 pm</td>
+        </tr>
+        <tr>
+            <td align="center" >2:00 pm</td>
+            <td align="center" >5:00 pm</td>
+            <td  colspan="2">XML Transformation</td>
+
+        </tr>
+        <tr>
+            <td align="center">Wednesday</td>
+            <td align="center" >8:00 am</td>
+            <td align="center" >12:00 pm</td>
+            <td   colspan="2">XML Formatting Object</td>
+        </tr>
+    </table>
+
+</body>
+
+</html>
