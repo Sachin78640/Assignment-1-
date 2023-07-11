@@ -1,0 +1,21 @@
+The <figure> tag and the <img> tag serve different purposes and are used in different contexts within an HTML document.
+
+<img> Tag:
+
+The <img> tag is a self-closing tag used to embed images into an HTML document.
+
+It is used to insert a standalone image, with no additional related content or caption.
+
+The <img> tag requires the src attribute to specify the source URL of the image.
+
+Additional attributes like alt, width, and height can be used to provide alternative text, specify dimensions, or add other attributes related to the image.
+
+<figure> Tag:
+
+The <figure> tag is used to encapsulate self-contained content, typically an image along with its caption or description.
+
+It provides a semantic container for related content, allowing the image and its associated text or caption to be treated as a single unit.
+
+The <figure> tag is often used in conjunction with the <figcaption> tag to provide a caption for the image or description.
+
+In summary, the <img> tag is used to embed standalone images into an HTML document, while the <figure> tag is used to group an image with its associated content, such as a caption or description. The <figure> tag provides a semantic structure that denotes the relationship between the image and its accompanying text, enhancing accessibility and improving the understanding of the content's context.
