@@ -1,0 +1,9 @@
+In HTML, there is a distinction between HTML tags and elements, although the terms are often used interchangeably. Here's how they differ:
+
+HTML Tags:
+
+HTML tags are the building blocks of an HTML document.
+They are used to define the structure and content of different elements in the document.
+HTML tags are written using angle brackets (<>) and come in pairs: an opening tag and a closing tag.
+The opening tag begins with the < character, followed by the tag name, and ends with >.
+The closing tag begins with </, followed by the tag name, and ends with >.
