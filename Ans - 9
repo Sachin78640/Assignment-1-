@@ -1,0 +1,30 @@
+In HTML, there is a distinction between HTML tags and attributes. Here's how they differ:
+
+HTML Tags:
+
+HTML tags are the building blocks of an HTML document.
+Tags are used to define the structure and content of different elements in the document.
+Tags are written using angle brackets (<>) and come in pairs: an opening tag and a closing tag.
+The opening tag begins with the < character, followed by the tag name, and ends with >.
+The closing tag begins with </, followed by the tag name, and ends with >.
+Examples of HTML tags include <p>, <a>, <div>, <h1>, etc.
+
+HTML Attributes:
+
+HTML attributes provide additional information or modify the behavior of HTML elements.
+Attributes are added to HTML tags as name-value pairs within the opening tag.
+They are used to specify things like the source of an image, the URL of a link, the width of an element, the target of a link, and many other element-specific or global characteristics.
+Attributes can be applied to various HTML tags to customize their behavior or appearance.
+Examples of HTML attributes include src, href, class, id, style, alt, target, etc.
+
+Global Attributes:
+
+Global attributes are attributes that can be applied to almost all HTML tags. They are not specific to any particular element and can be used across multiple elements. Here are some commonly used global attributes:
+
+class: Specifies one or more CSS classes to apply to an element for styling or JavaScript manipulation.
+id: Provides a unique identifier for an element, allowing JavaScript or CSS to target it specifically.
+style: Allows inline CSS styling to be applied directly to an element.
+title: Specifies additional information about an element, typically displayed as a tooltip when hovering over the element.
+lang: Specifies the language of the content within an element.
+data-*: Allows custom data attributes to be added to elements for storing additional data or information.
+aria-*: Provides accessibility-related information for elements using the Accessible Rich Internet Applications (ARIA) specification.
